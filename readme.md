@@ -45,4 +45,6 @@ You are free to use, share, and adapt the dataset with appropriate credit.
 ## 📌 Citation
 
 If you use this dataset in your research, please cite:
+Muahammad Danish Zia Baig. (2025). Minor Dents Detection Dataset for Car Body Panels [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16654735 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16654735.svg)](https://doi.org/10.5281/zenodo.16654735)
