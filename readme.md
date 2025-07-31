@@ -1,5 +1,7 @@
 # Minor Dents Detection Dataset for Metal Surfaces (YOLO Format)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16654735.svg)](https://doi.org/10.5281/zenodo.16654735)
+
 This dataset has been specially curated for the task of detecting **minor dents** on metallic car surfaces under various real-world conditions. It is designed to assist researchers and practitioners working on **automated damage detection**, especially in the automotive industry.
 
 ## 📦 Dataset Overview
